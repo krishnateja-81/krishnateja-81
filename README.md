@@ -10,6 +10,9 @@ Here are some ideas to get you started: -->
 ## 👨🏻‍💻 About Me:
 
 
+<hr>
+## 🛠️ Technologies and Tools I use:
+
 <p>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
