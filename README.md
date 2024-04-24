@@ -43,11 +43,11 @@ Here are some ideas to get you started: -->
 
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=radical" alt="github stats" />
+ <img src="https://github-readme-stats.vercel.app/api?username=krishnateja-81&show_icons=true&theme=radical" alt="github stats" />
 <!-- ![my's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnateja-81&show_icons=true&theme=radical) -->
  </div>
  <div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=" alt="github stats" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnateja-81" alt="github stats" />
 <!-- ![my's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnateja-81&show_icons=true&theme=radical) -->
  </div>
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=krishnateja-81&) -->
