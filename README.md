@@ -10,7 +10,6 @@ Here are some ideas to get you started: -->
 ## 👨🏻‍💻 About Me:
 
 
-<hr>
 ## 🛠️ Technologies and Tools I use:
 
 <p>
