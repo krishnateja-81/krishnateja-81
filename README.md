@@ -8,8 +8,8 @@ Here are some ideas to get you started: -->
  <br/>
 
 ## 👨🏻‍💻 About Me:
-## Hello, I'm Sirvisetti Krishna Teja 👋
 
+## Hello, I'm Sirvisetti Krishna Teja 👋
 ## I'm a Final Year BTech CSE - Data Science Student!
 
 - 🎓 I'm currently pursuing my Bachelor's in Computer Science with a specialization in Data Science.
