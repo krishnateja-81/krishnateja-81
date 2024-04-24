@@ -28,6 +28,8 @@ Here are some ideas to get you started: -->
 </p>
 
 ![my's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnateja-81&show_icons=true&theme=radical)
+
+<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=krishnateja-81&)
 
 ### Connect with me:
