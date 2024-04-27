@@ -53,6 +53,10 @@ Here are some ideas to get you started: -->
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnateja-81" alt="github stats" />
 <!-- ![my's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnateja-81&show_icons=true&theme=radical) -->
  </div>
+  <div align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnateja-81&theme=tokyonight&layout=compact" alt="Top Languages" />
+ </div>
+ 
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=krishnateja-81&) -->
 
 ### Connect with me:
