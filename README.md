@@ -45,6 +45,7 @@ Here are some ideas to get you started: -->
 </p>
 
 <hr>
+<h1>GitHub Stats</h1>
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=krishnateja-81&show_icons=true&theme=radical" alt="github stats" />
  </div>
