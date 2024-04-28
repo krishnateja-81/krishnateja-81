@@ -44,7 +44,7 @@ Here are some ideas to get you started: -->
  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
 </p>
 
-
+<hr>
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=krishnateja-81&show_icons=true&theme=radical" alt="github stats" />
  </div>
