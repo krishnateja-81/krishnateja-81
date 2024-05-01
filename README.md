@@ -12,7 +12,7 @@ Here are some ideas to get you started: -->
 # I'm Sirvisetti Krishna Teja 👋     
 
 ### I'm a Final Year BTech CSE - Data Science Student!
-
+    
 - 🎓 I'm currently pursuing my Bachelor's in Computer Science with a specialization in Data Science.
 - 🌱 I’m deeply interested in Python and its applications in data science and web development.
 - 💻 I'm skilled in Python, React.js, MongoDB, Django, and Flask.
