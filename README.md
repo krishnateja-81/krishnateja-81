@@ -7,8 +7,8 @@ Here are some ideas to get you started: -->
 
 <br/>
    
-## 👨🏻‍💻 About Me:         
-           
+## 👨🏻‍💻 About Me:
+
 # I'm Sirvisetti Krishna Teja 👋
 
 ### I'm a Final Year BTech CSE - Data Science Student!
