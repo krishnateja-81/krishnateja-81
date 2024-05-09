@@ -6,7 +6,7 @@ Here are some ideas to get you started: -->
 
 
 <br/>
-   
+
 ## 👨🏻‍💻 About Me:
 
 # I'm Sirvisetti Krishna Teja 👋
